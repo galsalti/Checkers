@@ -1,0 +1,6 @@
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersLogic\obj\Debug\CheckersLogic.csprojResolveAssemblyReference.cache
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersLogic\obj\Debug\CheckersLogic.dll
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersLogic\obj\Debug\CheckersLogic.pdb

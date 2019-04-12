@@ -1,0 +1,23 @@
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\bin\Debug\CheckersUI.exe.config
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\bin\Debug\CheckersUI.exe
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\bin\Debug\CheckersUI.pdb
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\obj\Debug\CheckersUI.csprojResolveAssemblyReference.cache
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\obj\Debug\CheckersUI.Properties.Resources.resources
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\obj\Debug\CheckersUI.csproj.GenerateResource.cache
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\obj\Debug\CheckersUI.csproj.CoreCompileInputs.cache
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\obj\Debug\CheckersUI.exe
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\obj\Debug\CheckersUI.pdb
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\bin\Debug\CheckersLogic.dll
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\bin\Debug\CheckersLogic.pdb
+C:\Users\galsalti\Desktop\Study\C#\HW\Ex5\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\obj\Debug\CheckersUI.csproj.CopyComplete
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\bin\Debug\CheckersUI.exe.config
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\bin\Debug\CheckersUI.exe
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\bin\Debug\CheckersUI.pdb
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\bin\Debug\CheckersLogic.dll
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\bin\Debug\CheckersLogic.pdb
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\obj\Debug\CheckersUI.csprojResolveAssemblyReference.cache
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\obj\Debug\CheckersUI.Properties.Resources.resources
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\obj\Debug\CheckersUI.csproj.GenerateResource.Cache
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\obj\Debug\CheckersUI.csproj.CoreCompileInputs.cache
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\obj\Debug\CheckersUI.exe
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\B18 Ex05 GalSalti 308427442 NivSchneiderman 203745724\CheckersUI\obj\Debug\CheckersUI.pdb
